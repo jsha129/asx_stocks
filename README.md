@@ -22,6 +22,7 @@ Two similar approaches were employed followed by feature selection. In the linea
 
 # Results
 - CAGR was estimated for 488 ASX companies, which was found to be normally distributed (of course!) with $$\mu = 9.49 $$
+- <img src="https://github.com/jsha129/asx_stocks/blob/main/download1.png", width = 100, height = 100 />
 
 
 # Limitations
